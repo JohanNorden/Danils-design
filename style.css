@@ -1,0 +1,26 @@
+body {
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-left {
+    margin-left: 2%;
+}
+
+.header-right {
+    margin-right: 2%;
+}
+
+.header-right li {
+    list-style: none;
+}
